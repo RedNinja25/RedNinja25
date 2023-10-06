@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 🚀 My expertise lies in back end game development, and I'm always excited to explore new technologies and build innovative projects. Here are some of the things I'm proficient in:
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express, Django, C++, C#, Java
+- **Backend**: Node.js, Express, C++, C#, Java
 - **Databases**: MongoDB, MySQL
 - **Version Control**: Git, GitHub Actions
 
