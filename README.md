@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/davis-cordeiro-b75b32260/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <br>
   <a href="mailto:someone@example.com">
     <img src="https://img.shields.io/badge/Email-red" alt="Email"/>
   </a>
